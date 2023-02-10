@@ -4,7 +4,7 @@
 
 - Fork this repository
 - Clone your copy of it to your local machine
-- Open in Atom
+- Open in VS Code
 
 ## Directions
 
@@ -16,4 +16,4 @@ Based on what you know about Git workflow, make commits as you see fit.
 
 ## Submission
 
-After you've commited and pushed your work back up to your copy of this repo, provide the repo link in the Google Submission Form.
+After you've commited and pushed your work back up to your copy of this repo, provide the repo link in the Submission Form.
