@@ -1,5 +1,5 @@
 # Self-Evaluation
 
-- This final CFU encompassed everything you've learned in Mod 0, and maybe even required some learning outside of what you've explicitly been taught. How did it feel as you faced these challenges?
-- How is your workflow going, in terms of taking breaks, staying focused, etc.?
-- What did you learn from this exercise that you want to remember as you begin Mod 1?
+- This final CFU encompassed everything you've learned in Mod 0, and maybe even required some learning outside of what you've explicitly been taught. How did it feel as you faced these challenges? It felt extremely satisfying to solve these problems on my own by integrating everything I've learned thus far. I am excited to learn and do more problem solving.
+- How is your workflow going, in terms of taking breaks, staying focused, etc.? I got stuck on the last couple of problems yesterday evening but I slept on it and came back and was easily able to clean up the couple bits of code that were giving me issues. I like to start the lesson by reading the whole lesson and doing practice problems. I then like to start on the check for understanding just to get a little headway until I feel like I could use a break. This gives me a fresh brain right after a break to work on concepts or bits of my code that are more difficult. 
+- What did you learn from this exercise that you want to remember as you begin Mod 1? As discussed above, I need to remember to utilize breaks as a resource to improve both my learning and the quality of my work.
